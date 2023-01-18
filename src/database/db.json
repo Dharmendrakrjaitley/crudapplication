@@ -1,0 +1,22 @@
+{
+  "players": [
+    {
+      "name": "Rohit Sharma",
+      "player": "Batsman",
+      "email": "rohit@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "DHARMENDRA KUMAR",
+      "player": "batsman",
+      "email": "Dharmendra.Kumar@Varian.Com",
+      "id": 2
+    },
+    {
+      "name": "Soham",
+      "player": "Batsman",
+      "email": "soham@gmail.com",
+      "id": 3
+    }
+  ]
+}
